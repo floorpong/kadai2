@@ -565,7 +565,7 @@ img {
 .lp-sec-image--center > .lp-block > .lp-item .lp-item__contents > .lp-text {
   margin-top: 1.6rem;
   font-size: 2rem;
-  font-weight: bold;
+  font-weight: normal;
   text-align: center;
   line-height: 1.5;
 }
@@ -601,7 +601,7 @@ img {
 .lp-sec-image--left > .lp-block > .lp-item .lp-item__contents > .lp-text {
   margin-top: 1.6rem;
   font-size: 2rem;
-  font-weight: bold;
+  font-weight: normal;
   text-align: left;
   line-height: 1.5;
 }
