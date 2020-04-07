@@ -86,7 +86,7 @@ body {
 --------------------------------------------------------- */
 .lp-sec-big {
   background-color: #fff;
-  background-image: url(../../img/top.jpg);
+  background-image: url(../img/top.jpg);
 }
 
 .lp-sec-big--center > .lp-block > .lp-title {
